@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "everdrive64-js": "^1.0.4"
+    "everdrive64-js": "^1.0.5"
   }
 }
